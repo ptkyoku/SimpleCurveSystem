@@ -1,0 +1,7 @@
+{
+  "name": "com.ptkyoku.simplecurvesystem",
+  "version": "1.0.0",
+  "displayName": "Simple Curve System",
+  "description": "The Simple Curve System makes it easy to create animations such as fading images, or moving, rotating, expanding, and contracting objects.",
+  "unity": "2022.3"
+}

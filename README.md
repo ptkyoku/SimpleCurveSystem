@@ -10,15 +10,15 @@ Simple Curve Systemを使用すると、画像のフェードや、オブジェ�
 ![alphacurve](https://github.com/ptkyoku/SimpleCurveSystem/assets/21057634/9b03617b-0be5-46fc-a677-521bf8c562fc)
 
 ### コンポーネント一覧
-- AlphaCurveAnimation (アニメーションターゲット：**Graphic**)
-- CanvasAlphaCurveAnimation (アニメーションターゲット：**CanvasGroup**)
-- PositionCurveAnimation (アニメーションターゲット：**Tranform**)
-- RotationCurveAnimation (アニメーションターゲット：**Tranform**)
-- ScaleCurveAnimation (アニメーションターゲット：**Tranform**)
-- AlphaCurveAnimationArray (アニメーションターゲット：**Graphic[]**)
-- PositionCurveAnimationArray (アニメーションターゲット：**Tranform[]**)
-- RotationCurveAnimationArray (アニメーションターゲット：**Tranform[]**)
-- ScaleCurveAnimationArray (アニメーションターゲット：**Tranform[]**)
+- AlphaCurveAnimation：フェード　(アニメーションターゲット：**Graphic**)
+- CanvasAlphaCurveAnimation：フェード　(アニメーションターゲット：**CanvasGroup**)
+- PositionCurveAnimation：移動　(アニメーションターゲット：**Tranform**)
+- RotationCurveAnimation：回転　(アニメーションターゲット：**Tranform**)
+- ScaleCurveAnimation：拡大、縮小　(アニメーションターゲット：**Tranform**)
+- AlphaCurveAnimationArray：フェード　(アニメーションターゲット：**Graphic[]**)
+- PositionCurveAnimationArray：移動　(アニメーションターゲット：**Tranform[]**)
+- RotationCurveAnimationArray：回転　(アニメーションターゲット：**Tranform[]**)
+- ScaleCurveAnimationArray：拡大、縮小　(アニメーションターゲット：**Tranform[]**)
 
 ### LoopType には四種類があります
 - One；アニメーション一回行う。
